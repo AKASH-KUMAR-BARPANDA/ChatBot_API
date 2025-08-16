@@ -9,6 +9,7 @@ router = APIRouter(
     prefix = '/chats'
 )
 
+
 @router.post('')
 def chat( request : BASEMODEL.ChatRequest):
     replay = CHAT.get_bot_response(request.Message)
