@@ -10,6 +10,7 @@ router = APIRouter(
 )
 
 
+
 # < -- ROUTES -- >
 @router.post('')
 def chat( request : BASEMODEL.ChatRequest):
