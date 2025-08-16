@@ -3,6 +3,7 @@ from  fastapi import APIRouter
 from BASE_PYDANTIC import BASEMODEL
 from REPOSITORY import CHAT
 
+
 router = APIRouter(
     tags = ["CHAT"],
     prefix = '/chats'
