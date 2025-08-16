@@ -1,7 +1,7 @@
 
 from groq import Groq
 client = Groq(
-        api_key="xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+        # api_key = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
     )
 
 def GROQ_Server_INJECTION(message):
