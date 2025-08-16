@@ -30,7 +30,7 @@ ChatBot_API/
 
 ### 1️⃣ Clone the repo
 ```bash
-git clone https://github.com/yourusername/ChatBot_API.git
+git clone https://github.com/AKASH-KUMAR-BARPANDA/ChatBot_API.git
 cd ChatBot_API
 
 2️⃣ Create & activate virtual environment
